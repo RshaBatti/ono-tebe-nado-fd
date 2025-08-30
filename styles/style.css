@@ -238,7 +238,7 @@ list-style: none;
 }
 
 .about {
-  padding: 0 24px 0;
+  padding: 0 24px 180px;
   display: grid;
   grid-template-columns: 334px auto;
   justify-content: center;
